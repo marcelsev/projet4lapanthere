@@ -371,12 +371,11 @@ margin-bottom:20px;
 ul a{
     text-decoration: none;
 }
-.col-sm-12{
-    text-align: center;
-}
+
 .text-center{
     font-size: large;
     font-weight: bold;
+    text-align: center;
 }
 @media (min-width: 768px) {
     .site-navigation {
