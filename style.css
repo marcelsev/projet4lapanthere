@@ -365,7 +365,19 @@ margin-bottom:20px;
     position: relative;
     z-index: 2;
 }
-
+.site-navigation {
+    list-style-type: none;
+}
+ul a{
+    text-decoration: none;
+}
+.col-sm-12{
+    text-align: center;
+}
+.text-center{
+    font-size: large;
+    font-weight: bold;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
